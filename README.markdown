@@ -1,3 +1,11 @@
+# Deprecation Notice
+This gem was recently updated to work with the newer version of github's api.
+I was really excited to take over maintenance of the gem and then I found out
+that defunkt/hub actually provides this functionality and lots more.
+
+In view of how awesome the hub project is I must admit that this gem doesn't serve
+much purpose so it is being deprecated.
+
 # GithubPulley
 ### A ruby gem for creating github pull requests
 
